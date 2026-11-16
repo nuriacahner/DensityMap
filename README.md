@@ -13,8 +13,8 @@ The colored PLY can be shown on the bone in Fusion with the ColorMap add-in (sep
 repository), which also shows its legend.
 
 <p align="center">
-  <img src="docs_densitymap/img/densitymapresult.PNG" width="800"><br>
-  <em>Figure 1. Measurements Dialog Overview.</em>
+  <img src="docs_densitymap/densitymapresult.PNG" width="800"><br>
+  <em>Figure 1. Density Map in Fusion 360.</em>
 </p>
 
 ## Why
