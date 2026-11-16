@@ -1,0 +1,15 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# development notes (not published)
+CLAUDE.md
+
+# results and scans: never publish data made from patients
+out/
+Mapas de densidad/
+*.ply
+*.stl
+*.dcm
+*_leyenda.svg
+*_resumen.txt
