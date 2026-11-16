@@ -12,6 +12,11 @@ saved as a colored mesh (PLY) with a legend.
 The colored PLY can be shown on the bone in Fusion with the ColorMap add-in (separate
 repository), which also shows its legend.
 
+<p align="center">
+  <img src="docs_densitymap/img/densitymapresult.PNG" width="800"><br>
+  <em>Figure 1. Measurements Dialog Overview.</em>
+</p>
+
 ## Why
 
 Mimics' own *Vertex color* option colors a surface from the CT values found just under the
